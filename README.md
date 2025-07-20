@@ -9,13 +9,12 @@
 Sou um desenvolvedor full stack, apaixonado por tecnologia e aprendizado contínuo. Estudo e aplico na prática ferramentas modernas como React, Tailwind CSS, Django, Python, JavaScript e SQL, buscando dominar tanto o front-end quanto o back-end.
 Tenho facilidade com lógica e resolução de problemas, gosto de aprender fazendo e estou sempre envolvido em projetos pessoais que fortalecem minhas habilidades.
 
-- Objetivo: Conquistar minha primeira oportunidade profissional como desenvolvedor (full stack, front-end ou back-end) e crescer junto a um time comprometido com a evolução.
+**Objetivo:** Conquistar minha primeira oportunidade profissional como desenvolvedor (full stack, front-end ou back-end) e crescer junto a um time comprometido com a evolução.
 
 ###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=WeskleyReis&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=WeskleyReis&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
