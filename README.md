@@ -7,7 +7,7 @@
 #
 
 <div align="center">
-  <img align="right" height="244px" src="scr/study.gif" alt="study.gif">
+  <img align="right" height="224px" src="scr/study.gif" alt="study.gif">
   <div align="center">
     <h3 align="center">My Stack</h3>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="38" alt="python logo"  />
