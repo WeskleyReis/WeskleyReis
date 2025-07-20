@@ -5,8 +5,9 @@
 <p align="center">Sou um desenvolvedor full stack, apaixonado por tecnologia e aprendizado contínuo. Estudo e aplico na prática ferramentas modernas como React, Tailwind CSS, Django, Python, JavaScript e SQL, buscando dominar tanto o front-end quanto o back-end.<br><br>Tenho facilidade com lógica e resolução de problemas, gosto de aprender fazendo e estou sempre envolvido em projetos pessoais que fortalecem minhas habilidades.</p>
 
 #
+
 <div align="center">
-  <img align="right" height="254px" src="scr/study.gif" alt="study.gif">
+  <img align="right" height="244px" src="scr/study.gif" alt="study.gif">
   <div align="center">
     <h3 align="center">My Stack</h3>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="38" alt="python logo"  />
