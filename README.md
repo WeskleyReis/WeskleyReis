@@ -3,9 +3,22 @@
 ###
 
 <p align="center">Sou um desenvolvedor full stack, apaixonado por tecnologia e aprendizado contínuo. Estudo e aplico na prática ferramentas modernas como React, Tailwind CSS, Django, Python, JavaScript e SQL, buscando dominar tanto o front-end quanto o back-end.<br><br>Tenho facilidade com lógica e resolução de problemas, gosto de aprender fazendo e estou sempre envolvido em projetos pessoais que fortalecem minhas habilidades.</p>
+<<<<<<< HEAD
+=======
+
+###
+>>>>>>> 103f1b7180b770901fd492632e5fa5757ed57627
 
 #
 <div align="center">
+<<<<<<< HEAD
+=======
+  <img src="https://github-readme-stats.vercel.app/api?username=WeskleyReis&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph">
+</div>
+
+#
+<div align="center">
+>>>>>>> 103f1b7180b770901fd492632e5fa5757ed57627
   <img align="right" height="254px" src="scr/study.gif" alt="study.gif">
   <div align="center">
     <h3 align="center">My Stack</h3>
